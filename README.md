@@ -47,3 +47,10 @@ Dataset statistics:
 ├── convert.py
 ├── docker-compose.yml
 └── README.md
+## Conclusion
+
+The project showed that Neo4j is well suited for recommendation systems based on relationships between users and movies. Cypher queries made it possible to analyze ratings, find popular movies and generate recommendations.
+
+The GDS algorithms provided additional insights into the graph structure. PageRank helped identify important movies, Louvain detected communities, and Dijkstra was used to find a shortest path in the graph.
+
+Compared with a relational approach, a graph database makes relationship-based queries and recommendations more direct and easier to express.
