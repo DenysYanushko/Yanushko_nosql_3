@@ -18,6 +18,7 @@ The project demonstrates:
 - Dijkstra shortest path;
 - comparison of graph and relational approaches.
 
+
 ## 2. Dataset
 
 The project uses the MovieLens 1M dataset.
